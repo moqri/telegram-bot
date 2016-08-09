@@ -8,7 +8,7 @@ s = sched.scheduler(time.time, time.sleep)
 import urllib2
 import requests
 from BeautifulSoup import BeautifulSoup
-url="https://ais.usvisa-info.com/en-IR"
+url=""
 api_base='https://api.telegram.org/bot.../sendMessage'
 global ls
 ls=[]
