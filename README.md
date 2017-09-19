@@ -1,3 +1,1 @@
-# visa
-A script to check the US Visa page and message you when there is an appointment available Edit
-
+Sample telegram bot to check a website and post in a channel
